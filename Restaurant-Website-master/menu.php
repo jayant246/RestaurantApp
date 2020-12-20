@@ -266,7 +266,7 @@
     				<ul>
 						<li><a href="index.php">Home</a></li>
 						<li><a href="menu.php">Menu</a></li>
-						<li><a href="gallery.php">Gallery</a></li>
+						<li><a href="#">ABOUT</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
     			</div>
